@@ -1,2 +1,5 @@
 # AP-Data-Science---Exercise-
-All the exercises for AP Data Science sessions are stored in this repo. 
+All the Jupyter Notebook exercises for AP Data Science sessions are uploaded in this repo. 
+
+Cheers,
+Thanh Nguyen (Nick)
